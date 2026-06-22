@@ -1,0 +1,12 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Gemini and Agent workspaces
+.agents/
+.gemini/
+.idea/
+.vscode/
+node_modules/
